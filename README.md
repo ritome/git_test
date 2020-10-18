@@ -9,4 +9,5 @@ line7
 topic-A
 
 topic-B
-git
+
+topic-C
